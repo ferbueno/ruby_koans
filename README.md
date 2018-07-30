@@ -4,7 +4,7 @@ This repo was created for making the life a little easier for someone who wants 
 
 Special thanks to EdgeCase who built them!
 
-This markdown is based on the original documentation written with `rdoc`. No further modifications where made on this project.
+This markdown is based on the original documentation written with `rdoc`. No further modifications were made on this project.
 
 Just fork it, clone it to your computer, and start learning!
 
